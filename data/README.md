@@ -1,1 +1,0 @@
-Repository holds code for suggested solution to the "Santander Product Recommendation" competition hosted on Kaggle. 
